@@ -14,3 +14,17 @@ So, let us go step by step to know the SolarMiner works...
 
 
 ## 2. Folders and files introduction
+### VLM
+
+### Data
+
+### Analysis
+
+### Results
+
+## 3. Citition
+If you are interested in SolarMiner, for more information, you can read our paper:
+Pre-print:
+DOI:
+If your use the model, the results or get ideas from the paper, please cite it.
+And your can also send email to me for more information (Please using English or Chinese).
