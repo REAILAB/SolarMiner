@@ -7,11 +7,15 @@ The source code of utilizing VLM (Vision Large Model) for the mine-site solar en
 
 Also, the referenced datas for the PV (Photovoltiac) simulation model construction, environmental and economical analysis were displayed here.
 
-So, let us go step by step to know the SolarMiner works...
+So, let us go step by step to know How the SolarMiner works...
 
 ## 1. What is SolarMiner?
+### Background
+![image](https://github.com/user-attachments/assets/a995d81a-3239-4a71-992d-26fe384376de)
 
+### VLM
 
+### PV Models
 
 ## 2. Folders and files introduction
 ### VLM
