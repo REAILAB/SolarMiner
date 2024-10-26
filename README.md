@@ -1,7 +1,7 @@
 # SolarMiner
 ### Large-scale Mining Solar Energy Potential of mining areas by Vision Large Model and Satellite Imageries
 
-This is the official website of SolarMiner. 
+This is the official website of SolarMiner.
 
 The source code of utilizing VLM (Vision Large Model) for the mine-site solar energy potential assessment has been published there.
 
@@ -13,13 +13,23 @@ So, let us go step by step to know How the SolarMiner works...
 ### Background
 ![image](https://github.com/user-attachments/assets/a995d81a-3239-4a71-992d-26fe384376de)
 
-![image](https://github.com/user-attachments/assets/fc338e44-cc0d-4e7c-a656-74232962859f)
+![image](https://github.com/user-attachments/assets/b5138e98-588b-4dd6-bb3a-45d64e65aadc)
+
 
 
 ### VLM
 ![image](https://github.com/user-attachments/assets/6b62f87b-c928-4798-989e-8060b1df3213)
 
 ### PV Models
+Pvlib for python, an open sourced package for PV simulation and power generation calculation.
+![image](https://github.com/user-attachments/assets/7232f3b8-5769-495b-96eb-173d927a132d)
+
+For detail, please visit [PVlib](https://github.com/pvlib/pvlib-python)
+
+Your can also use the source code, using the following code in bash
+```shell
+git clone https://github.com/pvlib/pvlib-python.git
+```
 
 ## 2. Folders and files introduction
 ### VLM
