@@ -39,13 +39,13 @@ git clone https://github.com/pvlib/pvlib-python.git
 
 ## 2. Folders introduction
 ### 2.1 VLM
-
+The source code of using VLM for the mining area segmentation and calculation was sorted in this folder
 ### 2.2 Data
-
+The data source which is referenced for the comprehensive analysis in the paper can be obtained here
 ### 2.3 Analysis
-
+The calculation of economic or environmental analysis can be obtained here
 ### 2.4 Results
-
+The results of ablation process and final calculation results which was sorted in .xlsx can be obtained here
 ### To use these code, please paste the following code in bash
 ```shell
 git clone https://github.com/REAILAB/SolarMiner.git
