@@ -1,2 +1,2 @@
 # SolarMiner
-SolarMiner: Large-Scale Mining Area Photovoltaic Potential Assessment Based on Vision Large Model and Remote Sensing Images
+SolarMiner: Large-scale Mining Solar Energy Potential of mining areas by Vision Large Model and Satellite Imageries
