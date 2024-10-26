@@ -11,16 +11,14 @@ So, let us go step by step to know How the SolarMiner works...
 
 ## 1. What is SolarMiner?
 ### 1.1 Background
+
 ![image](https://github.com/user-attachments/assets/a995d81a-3239-4a71-992d-26fe384376de)
-
-![image](https://github.com/user-attachments/assets/b5138e98-588b-4dd6-bb3a-45d64e65aadc)
-
 
 
 ### 1.2 VLM
 The architecture of the VLM was shown in this figure
 ![image](https://github.com/user-attachments/assets/6b62f87b-c928-4798-989e-8060b1df3213)
-For more detials, please visit [](https://github.com/facebookresearch/segment-anything)
+For more detials, please visit [Github-SAM](https://github.com/facebookresearch/segment-anything)
 
 The code can also be used:
 ```shell
@@ -37,7 +35,7 @@ Your can also use the source code, by pasting the following code in bash
 git clone https://github.com/pvlib/pvlib-python.git
 ```
 
-## 2. Folders and files introduction
+## 2. Folders introduction
 ### 2.1 VLM
 
 ### 2.2 Data
@@ -46,6 +44,10 @@ git clone https://github.com/pvlib/pvlib-python.git
 
 ### 2.4 Results
 
+### To use these code, please paste the following code in bash
+```shell
+git clone https://github.com/REAILAB/SolarMiner.git
+```
 ## 3. Citition
 If you are interested in SolarMiner, for more information, you can read our paper:
 
