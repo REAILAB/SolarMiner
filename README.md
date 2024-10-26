@@ -10,35 +10,35 @@ Also, the referenced datas for the PV (Photovoltiac) simulation model constructi
 So, let us go step by step to know How the SolarMiner works...
 
 ## 1. What is SolarMiner?
-### Background
+### 1.1 Background
 ![image](https://github.com/user-attachments/assets/a995d81a-3239-4a71-992d-26fe384376de)
 
 ![image](https://github.com/user-attachments/assets/b5138e98-588b-4dd6-bb3a-45d64e65aadc)
 
 
 
-### VLM
+### 1.2 VLM
 ![image](https://github.com/user-attachments/assets/6b62f87b-c928-4798-989e-8060b1df3213)
 
-### PV Models
+### 1.3 PV Models
 Pvlib for python, an open sourced package for PV simulation and power generation calculation.
 ![image](https://github.com/user-attachments/assets/7232f3b8-5769-495b-96eb-173d927a132d)
 
 For detail, please visit [PVlib](https://github.com/pvlib/pvlib-python)
 
-Your can also use the source code, using the following code in bash
+Your can also use the source code, by pasting the following code in bash
 ```shell
 git clone https://github.com/pvlib/pvlib-python.git
 ```
 
 ## 2. Folders and files introduction
-### VLM
+### 2.1 VLM
 
-### Data
+### 2.2 Data
 
-### Analysis
+### 2.3 Analysis
 
-### Results
+### 2.4 Results
 
 ## 3. Citition
 If you are interested in SolarMiner, for more information, you can read our paper:
