@@ -11,13 +11,15 @@ So, let us go step by step to know How the SolarMiner works...
 
 ## 1. What is SolarMiner?
 ### 1.1 Background
-
+Installing PV systems in post-mining areas offers numerous advantages. However, there is currently a lack of algorithms capable of assessing the PV potential of mining areas on a large scale. Furthermore, the development of Float PV (FPV) technology has made it possible to install FPV systems in these areas. Therefore, we propose a model capable of conducting a wide-ranging assessment of the extensive potential of mining areas. This model, incorporating computer vision techniques, enables the calculation of potential installation areas for both FPV and traditional PV systems.
 ![image](https://github.com/user-attachments/assets/a995d81a-3239-4a71-992d-26fe384376de)
 
 
 ### 1.2 VLM
 The architecture of the VLM was shown in this figure
+
 ![image](https://github.com/user-attachments/assets/6b62f87b-c928-4798-989e-8060b1df3213)
+
 For more detials, please visit [Github-SAM](https://github.com/facebookresearch/segment-anything)
 
 The code can also be used:
