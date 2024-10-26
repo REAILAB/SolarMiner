@@ -18,8 +18,14 @@ So, let us go step by step to know How the SolarMiner works...
 
 
 ### 1.2 VLM
+The architecture of the VLM was shown in this figure
 ![image](https://github.com/user-attachments/assets/6b62f87b-c928-4798-989e-8060b1df3213)
+For more detials, please visit [](https://github.com/facebookresearch/segment-anything)
 
+The code can also be used:
+```shell
+git clone https://github.com/pvlib/pvlib-python.git
+```
 ### 1.3 PV Models
 Pvlib for python, an open sourced package for PV simulation and power generation calculation.
 ![image](https://github.com/user-attachments/assets/7232f3b8-5769-495b-96eb-173d927a132d)
@@ -59,3 +65,4 @@ REAILAB is a non-profit, enthusiast-driven organization dedicated to exploring t
 ### Previous work
 ### SolarSAM
 Published in Elsevier Renewable Energy [Click here to read](https://doi.org/10.1016/j.renene.2024.121560)
+Code on Github 
