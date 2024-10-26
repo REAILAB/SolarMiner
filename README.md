@@ -63,10 +63,11 @@ And your can also send email to me for more information (Please using English or
 
 ## 4. [REAILAB (REAILab)](https://github.com/REAILAB) and series works
 REAI is AI for Renewable Energy
+![image](https://github.com/user-attachments/assets/0c9bf286-5eae-4ecc-ae80-b584ca80f3c3)
 
 REAILAB is a non-profit, enthusiast-driven organization dedicated to exploring the applications of artificial intelligence and pattern recognition technologies in EE and energy.
 
 ### Previous work
 ### SolarSAM
 Published in Elsevier Renewable Energy [Click here to read](https://doi.org/10.1016/j.renene.2024.121560)
-Code on Github 
+[Code on Github](https://github.com/REAILAB/SolarSAM.git)
