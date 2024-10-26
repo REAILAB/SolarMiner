@@ -70,4 +70,5 @@ REAILAB is a non-profit, enthusiast-driven organization dedicated to exploring t
 ### Previous work
 ### SolarSAM
 Published in Elsevier Renewable Energy [Click here to read](https://doi.org/10.1016/j.renene.2024.121560)
-[Code on Github](https://github.com/REAILAB/SolarSAM.git)
+
+For the code, please click: [Code on Github](https://github.com/REAILAB/SolarSAM.git)
