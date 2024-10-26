@@ -13,7 +13,11 @@ So, let us go step by step to know How the SolarMiner works...
 ### Background
 ![image](https://github.com/user-attachments/assets/a995d81a-3239-4a71-992d-26fe384376de)
 
+![image](https://github.com/user-attachments/assets/fc338e44-cc0d-4e7c-a656-74232962859f)
+
+
 ### VLM
+![image](https://github.com/user-attachments/assets/6b62f87b-c928-4798-989e-8060b1df3213)
 
 ### PV Models
 
@@ -36,3 +40,12 @@ DOI:
 If your use the model, the results or get ideas from the paper, please cite it.
 
 And your can also send email to me for more information (Please using English or Chinese).
+
+## 4.REAILAB (REAILab) and series works
+REAI is AI for Renewable Energy
+
+REAILAB is a non-profit, enthusiast-driven organization dedicated to exploring the applications of artificial intelligence and pattern recognition technologies in EE and energy.
+
+### Previous work
+### SolarSAM
+Published in Renewable Energy [Read](https://doi.org/10.1016/j.renene.2024.121560)
