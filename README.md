@@ -3,14 +3,14 @@
 
 This is the official website of SolarMiner. 
 
-The source code of utilizing VLM for the mine-site solar energy potential assessment has been published there.
+The source code of utilizing VLM (Vision Large Model) for the mine-site solar energy potential assessment has been published there.
 
-Also, the referenced datas for the PV model construction, environmental and economical analysis were displayed here.
+Also, the referenced datas for the PV (Photovoltiac) simulation model construction, environmental and economical analysis were displayed here.
 
 So, let us go step by step to know the SolarMiner works...
 
-## What is SolarMiner?
+## 1. What is SolarMiner?
 
 
 
-## Folders and files introduction
+## 2. Folders and files introduction
