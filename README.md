@@ -40,6 +40,12 @@ git clone https://github.com/pvlib/pvlib-python.git
 ## 2. Folders introduction
 ### 2.1 VLM
 The source code of using VLM for the mining area segmentation and calculation was sorted in this folder
+
+In this paper, the VLM is Segment Anything Model (SAM) which is open-source with both the model structure and the model weight by Meta AI, reader and developer can download the model from https://github.com/facebookresearch/segment-anything.git, or
+```shell
+git clone https://github.com/REAILAB/SolarMiner.git
+```
+
 ### 2.2 Data
 The data source which is referenced for the comprehensive analysis in the paper can be obtained here
 ### 2.3 Analysis
