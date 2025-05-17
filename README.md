@@ -1,7 +1,9 @@
 # SolarMiner
-### Large-scale Mining Solar Energy Potential of mining areas by Vision Large Model and Satellite Imageries
+### Assessing Mine-site Photovoltaic (PV) and Floating PV Potential Using Vision Large Model
 
 This is the official website of SolarMiner.
+
+The official rep of Assessing Mine-site Photovoltaic (PV) and Floating PV Potential Using Vision Large Model
 
 The source code of utilizing VLM (Vision Large Model) for the mine-site solar energy potential assessment has been published there.
 
