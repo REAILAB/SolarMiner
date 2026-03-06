@@ -1,5 +1,5 @@
 # SolarMiner
-### Assessing Mine-site Photovoltaic (PV) and Floating PV Potential Using Vision Large Model
+### Assessing Open-pit Mine-site Photovoltaic (PV) and Floating PV Potential Using Vision Large Model
 
 This is the official website of SolarMiner.
 
@@ -60,6 +60,8 @@ git clone https://github.com/REAILAB/SolarMiner.git
 ```
 ## 3. Citition
 If you are interested in SolarMiner, for more information, you can read our paper (Published in Progress in Energy)
+
+Assessing Open-pit Mine-site Photovoltaic (PV) and Floating PV Potential Using Vision Large Model
 
 DOI: 10.1088/2516-1083/ae4a7d
 
