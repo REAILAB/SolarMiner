@@ -59,11 +59,11 @@ The results of ablation process and final calculation results which was sorted i
 git clone https://github.com/REAILAB/SolarMiner.git
 ```
 ## 3. Citition
-If you are interested in SolarMiner, for more information, you can read our paper:
+If you are interested in SolarMiner, for more information, you can read our paper
 
-Pre-print:
+DOI: 10.1088/2516-1083/ae4a7d
 
-DOI:
+https://iopscience.iop.org/article/10.1088/2516-1083/ae4a7d
 
 If your use the model, the results or get ideas from the paper, please cite it.
 
