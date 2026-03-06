@@ -61,7 +61,9 @@ git clone https://github.com/REAILAB/SolarMiner.git
 ## 3. Citition
 If you are interested in SolarMiner, for more information, you can read our paper (Published in Progress in Energy)
 
-DOI: 10.1088/2516-1083/ae4a7d (OA)
+DOI: 10.1088/2516-1083/ae4a7d
+
+This paper is Open Access, click:
 
 https://iopscience.iop.org/article/10.1088/2516-1083/ae4a7d
 
